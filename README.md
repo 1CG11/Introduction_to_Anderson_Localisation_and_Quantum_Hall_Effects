@@ -9,4 +9,4 @@ Ideally would've gotten to do a bunch more stuff...like implement a finite size 
 
 There's a few more files I should upload...if I remember to at some point I'll also upload the project pdf.
 
-I was primarily focused on learning the theory behind Anderson localisation and QHE (mainly IQHE) as this would have been used in preparation for a Phd on FQHE (as to whether or not this will still happen depends on the gods of the Irish Research Council), so that and the project time being cut short is my excuse for the write-up seeming rushed.
+I was primarily focused on learning the theory behind Anderson localisation and QHE (mainly IQHE) as this would have been used in preparation for a Phd on FQHE (as to whether or not this will still happen depends on the gods of the Irish Research Council), so that and the project time being cut short is my excuse for the write-up seeming a little bit rushed.
