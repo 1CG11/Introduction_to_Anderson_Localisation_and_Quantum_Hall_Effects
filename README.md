@@ -5,4 +5,4 @@ Primarily done using the PYTHON package kwant to familiarise myself with tight b
 
 Ideally would've gotten to do a bunch more stuff...like implement a Finite size scaling regime for a bunch of different things (Longitudinal Conductance, Localisation Length, etc)...alas no time as we got robbed of a third of our project time to inter-department politics :(
 
-There's a few more files I should upload...if I remember to at some point
+There's a few more files I should upload...if I remember to at some point I'll also upload the project pdf.
